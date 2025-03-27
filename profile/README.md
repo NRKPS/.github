@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 🏫 NRK Public School
 
 Welcome to the official GitHub profile of NRK Public School!
@@ -59,5 +57,3 @@ We welcome contributions from students, teachers, and developers. If you'd like 
 📧 Email: ithead@nrkpublicschool.co.in
 🌐 Website: https://nrkpublicschool.co.in
 📍 Address: NRK Public School, East Champaran, Bihar
-
--->
